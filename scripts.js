@@ -1,7 +1,8 @@
 // The global variable
 var watchList = [
 
-  I changed it when I was not supposed to muhahaha
+why do gay guys prefer liquid soap?
+//answer on line 96
   {
     "Title": "Interstellar",
     "Year": "2014",
@@ -92,6 +93,7 @@ var watchList = [
   }
 ];
 
+it takes longer to pick up...
 
   // Only change code above this line
   return averageRating;
