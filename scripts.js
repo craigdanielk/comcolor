@@ -1,5 +1,7 @@
 // The global variable
 var watchList = [
+
+  I changed it when I was not supposed to muhahaha
   {
     "Title": "Interstellar",
     "Year": "2014",
